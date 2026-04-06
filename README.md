@@ -50,6 +50,7 @@ Synthetic dataset covering January 2021 to December 2023 across four tables - ap
 - Develop targeted engagement strategies for adults aged 18 to 35
 
 ---
+[Read the full article on Medium](https://medium.com/@balikisadetoyi75/clearview-mental-health-trust-a-data-analysis-project-of-treatment-dropout-and-what-it-means-for-773c7a8d4e1a)
 
 ## Dashboard
 
